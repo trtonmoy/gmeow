@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="https://popipopipo.tech/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>https://popipopipo.tech</link>
+	<description></description>
+	<lastBuildDate>Sun, 29 Oct 2023 04:39:45 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://popipopipo.tech/wp-content/uploads/2023/10/cropped-Logos-16-32x32.png</url>
+	<title></title>
+	<link>https://popipopipo.tech</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>https://popipopipo.tech/?p=1</link>
+					<comments>https://popipopipo.tech/?p=1#comments</comments>
+		
+		<dc:creator><![CDATA[popipopipo.tech]]></dc:creator>
+		<pubDate>Sun, 29 Oct 2023 04:39:45 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://popipopipo.tech/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://popipopipo.tech/?feed=rss2&#038;p=1</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
